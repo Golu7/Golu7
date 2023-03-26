@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Golu7
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++ and Python 
-- 💞️ I’m looking to collaborate on basic begginers friendly projects. (for learning purpose )
+- 👋 Hi, I’m GoluKumar Sahani
+- Computer Science Student
+- 🌱 I’m currently learning Python with DSA 
 - 📫 How to reach me 
    Linkedin : https://www.linkedin.com/in/golukumarsahani/
    

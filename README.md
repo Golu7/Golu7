@@ -1,6 +1,6 @@
-- 👋 Hi, I’m GoluKumar Sahani
+- Hello World, I’m GoluKumar Sahani
 - Computer Science Student
-- 🌱 I’m currently learning Python with DSA 
+- 🌱 I’m currently learning Data Analytics with Python and SQL.
 - 📫 How to reach me 
    Linkedin : https://www.linkedin.com/in/golukumarsahani/
    
